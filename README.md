@@ -79,6 +79,7 @@ A curated list of awesome Java frameworks, libraries and software.
   - [Podcasts and Screencasts](#podcasts-and-screencasts)
   - [Twitter](#twitter)
   - [Websites](#websites)
+  - [CtCI](#https://github.com/careercup/CtCI-6th-Edition/tree/master/Java)
 
 ## Projects
 
